@@ -7,7 +7,7 @@ class Basic {
         String Name = scan.nextLine();
         int Age = scan.nextInt();
         String Department = scan.nextLine();
-        System.out.println("My Name is " + Name);
+        System.out.println("My ame is " + Name);
         System.out.println("My Age is " + Age);
         System.out.println("My Department is " + Department);
     }
